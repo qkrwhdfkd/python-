@@ -7,4 +7,4 @@ count = 100
 
 print(num + count, 문자변수)
 
-list = ['사과','백']
+list = ['사과','배']
